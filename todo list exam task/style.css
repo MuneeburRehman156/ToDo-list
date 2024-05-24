@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    margin-bottom: 3vw;
+    text-decoration: underline;
+}
+.form-floating{
+    display: flex;
+    justify-content:space-around;
+}
+#floatingInput{
+    width: 60vw;
+}
+.btn{
+    width: 10vw;
+    text-overflow: clip;
+}
+#innpname{
+    margin-left: 3.5vw;
+}
+li>.btn{
+    width: 6vw;
+    margin: 0px .6vw;
+}
+li{
+    width: 90vw;
+    border-radius: 10px;
+    border: 2.6px solid gray;
+margin: 1.5% 0px;
+padding: 10px;
+}
